@@ -60,6 +60,8 @@ val imagePicker = rememberImagePicker(onImage = { uri ->
     }
 })
 ```
+### Fork by mohcine
+just playing
 
 ### Customization 
 To customize the ui of the image cropper you can provide a different implementation of `CropperStyle` to the cropper dialog.
